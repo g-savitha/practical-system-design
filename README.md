@@ -6,3 +6,4 @@
 2. [Config Driven UI](https://github.com/g-savitha/config-driven-ui)
    - [Demo](https://config-driven-ui.vercel.app/)
 3. [Reddit Nested Comments](https://codesandbox.io/p/sandbox/affectionate-varahamihira-ss7rx4)
+4. [Image Slider](https://codesandbox.io/p/sandbox/elastic-joliot-wp7x9j)
