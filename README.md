@@ -8,5 +8,5 @@
 3. [Reddit Nested Comments](https://codesandbox.io/p/sandbox/affectionate-varahamihira-ss7rx4)
 4. [Image Slider](https://codesandbox.io/p/sandbox/elastic-joliot-wp7x9j)
 5. [Pagination](https://codesandbox.io/p/sandbox/stupefied-driscoll-rqq25f)
-6. [InfiniteScroll]
+6. [InfiniteScroll](https://codesandbox.io/p/sandbox/dazzling-mountain-rxq83m)
 7. [Shimmer UI]
