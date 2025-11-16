@@ -10,3 +10,4 @@
 5. [Pagination](https://codesandbox.io/p/sandbox/stupefied-driscoll-rqq25f)
 6. [InfiniteScroll](https://codesandbox.io/p/sandbox/dazzling-mountain-rxq83m)
 7. [Shimmer UI]
+8. [Autocomplete and Search Bar](https://codesandbox.io/p/sandbox/heuristic-curran-wpttpt)
